@@ -2,7 +2,7 @@
 
 A quick and simple version of Minesweeper
 
-#Technologies Used:
+<ins>Technologies Used:</ins>
 React (with Hooks)
 Create-React-App
 ES6+ JavaScript
